@@ -1,2 +1,0 @@
-# tokenology
-DNA and tokens
