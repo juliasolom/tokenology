@@ -1,5 +1,7 @@
 # tokenology
 
+https://www.ncbi.nlm.nih.gov/assembly/GCF_000001635.20/ - Mus musculus assembly
+
 1. Get plain text genome with script `get_plain_text.py` for training BPETokenizer
 
 2. Get promotors file in fasta format with the sctipt `extract_promoters.sh`
